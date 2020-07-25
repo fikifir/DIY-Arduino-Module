@@ -3,7 +3,7 @@
 ## Parts:
 1. Relay 5v (1)
 2. Transistor BC548 (1)
-3. Diode 1N4007 (1)
+3. Diode 1N4007 or 1N4008 (1)
 4. Resistor 1k (1)
 
 ## Wiring:
@@ -15,7 +15,7 @@
 ## Parts:
 1. Relay 5v (1)
 2. Transistor BC548 (1)
-3. Diode 1N4007 (1)
+3. Diode 1N4007 or 1N4008 (1)
 4. Resistor 1k (2)
 5. LED (1)
 
@@ -28,7 +28,7 @@
 ## Parts:
 1. Relay 5v (1)
 2. Transistor BC548 (1)
-3. Diode 1N4007 (1)
+3. Diode 1N4007 or 1N4008 (1)
 4. Resistor 1k (3)
 5. LED (2)
 

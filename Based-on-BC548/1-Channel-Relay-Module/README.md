@@ -35,3 +35,6 @@
 ## Wiring:
 
 ![Image of 1-Channel Relay Module With 2 LED](https://github.com/fikifir/DIY-Arduino-Relay-Module/blob/master/Based-on-BC548/1-Channel-Relay-Module/1-channel-relay-module-with-2-LED.png?raw=true)
+
+## Wiring Diagram to Arduino Boards Example
+

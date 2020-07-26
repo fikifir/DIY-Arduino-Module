@@ -38,3 +38,5 @@
 
 ## Wiring Diagram to Arduino Boards Example
 
+
+![Image of 1-Channel Relay Module Without LED](https://github.com/fikifir/DIY-Arduino-Relay-Module/blob/master/Based-on-BC548/1-Channel-Relay-Module/relay-arduino-pro-micro-schematic-diagram.png?raw=true)
